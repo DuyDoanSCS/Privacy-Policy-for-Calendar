@@ -39,8 +39,8 @@ myDTU Calendar Sync helps you synchronize your teaching schedule from myDTU to G
 We may update this policy. Changes will be posted with a new "Last Updated" date.
 
 ## Contact
-Email: your-email@example.com
-GitHub: https://github.com/yourusername
+Email: doanhoangduy@gmail.com
+GitHub: https://github.com/DuyDoanSCS
 
 ---
 This extension is NOT affiliated with Duy Tan University.
